@@ -1,0 +1,13 @@
+name: Word-Predictor
+title: Word-Predictor
+username:
+account: solomongeddam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 644891
+bundleId: 1816228
+url: https://solomongeddam.shinyapps.io/Word-Predictor/
+when: 1547586118.70841
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: WP Presentation.Rpres

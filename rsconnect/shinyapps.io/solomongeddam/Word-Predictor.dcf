@@ -5,9 +5,9 @@ account: solomongeddam
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 644891
-bundleId: 1816228
+bundleId: 1816274
 url: https://solomongeddam.shinyapps.io/Word-Predictor/
-when: 1547586118.70841
+when: 1547587921.49345
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: WP Presentation.Rpres

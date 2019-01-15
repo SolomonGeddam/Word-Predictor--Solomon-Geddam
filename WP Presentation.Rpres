@@ -31,7 +31,7 @@ Underlying Algorithm
 Further Exploration
 ========================================================
 
-- The code is available on [GitHub](https://github.com/sriharshams/coursera-data-science-capstone)
+- The code is available on [GitHub](https://github.com/SolomonGeddam/Word-Predictor--Solomon-Geddam)
 - Further work can expand the main weakness of this approach: long-range context
     1. Current algorithm discards contextual information past 4-grams
     2. We can incorporate this into future work through clustering underlying training corpus/data and predicting what cluster the entire sentence would fall into
